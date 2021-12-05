@@ -6,7 +6,7 @@ This is a simple modification of the standard US keyboard layout that makes the 
 # Rationale
 `Caps Lock` creates a persistent shift state. A persistent shift state that prefers capital letters is an ugly and useless thing capable of nothing more than starting wars and exercising the `else` branch of password checks.
 
-When coding (particularly in the languages preferred by this author), symbols are used more often than numbers, and captials hardly ever. Cultural conventions and muscle memory aside, it stands to reason that a more useful persistent shift state would:
+When coding (particularly in the languages preferred by this author), symbols are used more often than numbers, and capitals hardly ever. Cultural conventions and muscle memory aside, it stands to reason that a more useful persistent shift state would:
 * do nothing to the alpha keys
 * change the base-state of the top-row number keys
 * reduce the exploitative working conditions of the of the left-pinky
