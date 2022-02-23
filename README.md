@@ -1,5 +1,5 @@
 # smug-us-keyboard
-A keyboard layout for a civilized time.
+A civilized keyboard layout for a more civilized age.
 
 This is a simple modification of the standard US keyboard layout that makes the standard `Caps Lock` function useful.
 
